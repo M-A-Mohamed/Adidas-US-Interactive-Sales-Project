@@ -52,7 +52,7 @@ A detailed breakdown of how different retailers (**Amazon, Foot Locker, Kohl's, 
 ---
 
 ## 🚀 Technologies Used
-*   **Data Visualization:** Power BI / Tableau (or specify your tool)
+*   **Data Visualization:** Excel
 *   **Data Source:** US Adidas Sales Dataset
 *   **Formatting:** Markdown
 
